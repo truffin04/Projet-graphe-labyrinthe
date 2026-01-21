@@ -36,7 +36,7 @@ Ce projet a pour but de **générer un labyrinthe parfait** (un labyrinthe avec 
 
 ### Étapes d'installation
 
-1. **Cloner le dépôt** (si disponible) :
+1. **Cloner le dépôt** :
    ```bash
-   git clone [(https://github.com/truffin04/Projet-graphe-labyrinthe.git)]
+   git clone https://github.com/truffin04/Projet-graphe-labyrinthe.git
    
